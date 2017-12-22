@@ -1,1 +1,2 @@
-# Don-t-Collide-Game
+# Don't-Collide-Game
+Introduction:
